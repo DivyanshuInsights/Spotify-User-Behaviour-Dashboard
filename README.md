@@ -24,12 +24,12 @@ This project presents an interactive Power BI dashboard that analyzes Spotify us
 - **SQL (Optional)** – Data Analysis
 
 ## 📷 Dashboard Preview
-![Spotify Dashboard](dashboard.png)
+![Spotify Dashboard](Dashboard_png3.png)
 
 ## 📂 Project Files
-- `Spotify Dashboard.pbix` – Power BI File
-- `spotify_dataset.xlsx` – Dataset
-- `dashboard.png` – Dashboard Screenshot
+- `SPOTIFY USERS BEHAVIOUR PROJECT 3.pbix` – Power BI File
+- `spotify_user_behavior_realistic_project 3.xlsx` – Dataset
+- `Dashboard_png3.png` – Dashboard Screenshot
 
 ## 📈 Project Highlights
 - Built an interactive dashboard in just **2 hours**.
